@@ -9,7 +9,7 @@ Password confirmation to ensure that entered passwords match.
 Option to cancel the login process with a confirmation prompt.
 Getting Started
 To run the Simple Login System program, follow these steps:
-![image](https://github.com/RoggersAnguzu/Simple-Login-Checker/assets/141458053/9ec65d2c-bda9-4bda-954a-f91b5773dcad)
+![image](https://github.com/RoggersAnguzu/Simple-Login-Checker/assets/141458053/dfa61f96-7c28-4f37-8148-bd385fa28f1e)
 
 Ensure you have the .NET Framework installed on your computer.
 Download or clone this repository to your local machine.
