@@ -1,5 +1,5 @@
 # Simple-Login-Checker
-Simple Login System
+Simple Login System.
 This is a basic Windows Forms application that serves as a simple login system. It allows users to enter a username and password and confirms that the entered passwords match. The program also provides an option to cancel the login process, with confirmation.
 
 # Features
